@@ -1,0 +1,20 @@
+# IDEs and editors
+.idea/
+.settings/
+.classpath
+.project
+bin/
+*.class
+*.log
+
+# Frontend build and dependencies
+client/node_modules/
+client/build/
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+
+# Backend build
+middleware/target/
+middleware/bin/
+middleware/*.class
